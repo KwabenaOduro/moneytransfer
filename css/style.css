@@ -1,0 +1,320 @@
+#supbutton{
+	
+	float:right;
+	margin-top:10px;
+	margin-bottom:20px;
+	margin-right:20px;
+}
+#btngrp{
+	
+	float:right;
+	margin-top:10px;
+	margin-bottom:20px;
+	margin-right:100px;
+}
+#heorunit{
+	
+	margin:0px;
+	padding:0px;
+}
+
+#requnit{
+	
+	margin:0px;
+	padding:0px;
+	
+}
+#rowfluid{
+	
+	
+	position: relative;
+}
+#info{
+	
+	background-color:#F3F3F3;
+	height:420px;
+	position: absolute;
+	
+}
+#span3{
+	height:300px;
+	/*background-color:red;*/
+}
+
+#inline{
+	float:right;
+	
+}
+#inline2{
+	float:right;
+	
+}
+#reqform{
+	
+	
+	margin-top:50px;
+}
+
+#pdtpress{
+	
+    float:right;
+	
+}
+#press{
+    
+  margin-left:180px;
+}
+
+#loading{
+    
+   width:2%;
+    height: 2%;
+    margin-top:12px;
+	margin-bottom:20px;
+	margin-left:85%;
+    display: none;
+}
+#loadingpdt{
+    width:2%;
+    height: 2%;
+    margin-top:10px;
+	margin-bottom:20px;
+	margin-left:85%;
+   visibility: hidden;
+    
+    
+}
+#loadinguni{
+    width:2%;
+    height: 2%;
+    margin-top:10px;
+	margin-bottom:20px;
+	margin-left:85%;
+   visibility: hidden;
+    
+    
+}
+#loadingsup{
+    width:2%;
+    height: 2%;
+    margin-top:10px;
+	margin-bottom:20px;
+	margin-left:85%;
+   visibility: hidden;
+    
+    
+}
+#reqtable th{
+	
+	font-size: 11px;
+	text-align: center;
+}
+#reqtable tr td{
+	
+	padding-top:5px;
+	font-size: 12px;
+	border-right:1px solid #E5E5E5;
+}
+
+#unitable th{
+	
+	font-size: 11px;
+	text-align: center;
+}
+#unitable tr td{
+	
+	padding-top:5px;
+	font-size: 12px;
+	border-right:1px solid #E5E5E5;
+}
+
+#suptable th{
+	
+	font-size: 11px;
+	text-align: center;
+}
+#suptable tr td{
+	
+	padding-top:5px;
+	font-size: 12px;
+	border-right:1px solid #E5E5E5;
+}
+
+
+#navheader{
+    
+text-align: justify;
+font-size: 1em;
+font-weight: 200;
+}
+
+#unewprice{
+
+    margin-top: 10px;
+    
+}
+
+
+
+
+#reqap{
+	
+	float:right;
+	margin-bottom:30px;
+}
+
+#spantab{
+    
+ margin-top: 50px;
+    
+}
+
+
+/*********************** New Start ****************************/
+
+#tranhero{
+    
+   padding-top: 2%;
+    
+}
+
+#prev{
+    
+  margin-bottom: 10px;
+    float:right;
+    
+}
+#prev a{
+    
+    text-decoration: none;
+   
+    
+}
+
+#amount{
+
+    margin-top: 10px;
+    
+}
+
+#gentoken{
+    
+    
+    margin-bottom: 10px;
+    
+}
+
+#cdinfo{
+    
+  padding: 0px;
+    margin:0px;
+    
+}
+#cdinfo ul{
+  
+    text-align: left;
+   
+    
+}
+#cdinfo ul li{
+    
+    padding: 0px;
+    
+    list-style: none;
+    font-size: 10px;
+    
+    
+}
+
+#detailspan{
+    
+    margin-top:10px;
+      font-size: 15px;
+    font-weight: bold;
+   
+    list-style: none;
+    border-right: 1px solid #D8D8D8;
+    
+    
+    
+}
+
+
+
+#detailspan2{
+    
+    margin-top:10px;
+    list-style: none;
+    font-size: 15px;
+     
+}
+
+
+#approve{
+    
+    margin-right:40px;
+    float:right;
+    
+}
+#search{
+    
+    
+    float:right;
+    
+}
+#verify{
+    
+    margin-left: 44px;
+    
+}
+
+.notestyle{
+    
+    margin-top: 10px;
+    
+}
+#tamnt{
+    
+   margin-left:10%;
+    font-size: 12px;
+    
+}
+#rbtn{
+    
+    margin-left: 10px;
+    
+}
+#vbtn{
+    
+    margin-left: 10px;
+    
+}
+
+.rmarks{
+    
+    margin-left:20px;
+    
+}
+#iderror{
+    
+    margin-left: 20px;
+    
+}
+
+#print{
+    
+    
+    margin-bottom: 10px;
+    
+}
+
+#tableprint{
+    
+    color:red;
+    
+}
+
+//Verification ID styling
+
+
+
